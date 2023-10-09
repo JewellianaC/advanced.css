@@ -1,0 +1,199 @@
+body{
+    background-color: #618264;
+    color: #183D3D;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 2em;
+margin: 0;
+    }
+ /*   
+*{
+margin:0;
+padding:0;
+}
+*/
+.clr {
+clear: both;
+}
+.box-1{
+background-color:#D0E7D2;
+color: #5C8374;
+border-width:3px;
+border-bottom-width:10px;
+border-top-style:dotted;
+border: 5px #B0D9B1 solid;
+padding:15px;
+margin:15px;
+margin:20px 0;
+}
+
+.container{
+width: 80%;
+margin: auto;
+}
+
+.box-1 h1{
+font-family: Tahoma;
+font-weight:800;
+font-style: italic;
+text-decoration:underline;
+text-transform: uppercase;
+letter-spacing:0.2em;
+word-spacing:1em;
+}
+
+.box-2{
+border:3px dotted #ccc;
+padding: 20px;
+margin:20px 0;
+}
+
+.categories {
+border:1px #ccc solid;
+padding: 10px;
+border-radius: 15px;
+}
+
+.categories h2 {
+text-align: center;
+}
+
+.categories ul {
+padding: 0;
+padding-left:20px;
+list-style:square;
+list-style:none;
+}
+.categories li {
+padding-bottom:6px;
+border-bottom:dotted 1px #333;
+list-style-image:url('img/check.png');
+}
+a{
+text-decoration:none;
+color:#000; 
+}
+a{
+text-decoration:none;
+color: #000;
+}
+a:hover{
+color:#B9B4C7;
+}
+a:active{
+color:#D0BFFF;
+}
+a:visited{
+color:#BEADFA;
+}
+.my-form{
+padding: 20px;
+}
+.my-form   .form-group {
+padding-bottom: 15px;
+}
+.my-form  label {
+display: block;
+}
+.my-form   input [type="text"], my-form textarea {
+padding: 6px;
+width: 20%;
+}
+.button {
+background-color: #000;
+color: #fff;
+padding: 5px 10px;
+border: none;
+}
+/* a:visited {
+color: black;
+} */
+.button:hover {
+background: #B9B4C7;
+color: #fff;
+}
+.button{
+color:#fff;
+text-decoration:none;
+}  
+.block {
+float: left;
+width: 33.3%;
+border: 1px solid rgb(3, 3, 3);
+padding: 10px;
+box-sizing: border-box;
+}
+#main-block {
+float: left;
+width: 70%;
+padding: 15px;
+box-sizing: border-box;
+}
+#sidebar {
+float: right;
+width: 30%;
+background-color: #333;
+color: #fff;
+padding: 15px;
+box-sizing: border-box;
+}
+.p-box {
+width: 500px;
+height: 300px;
+border: 1px  solid  #000;
+margin-top:30px;
+position:relative;
+}  
+.p-box  h1 {
+position: absolute;
+top: 100px;
+left:200px;
+}
+.p-box  h2 {
+position: absolute;
+bottom: 40px;
+right: 100px;
+background-image:url('img/bgimage-3.jpg');
+background-repeat: no-repeat;
+background-position: 100px  200px;
+background-repeat: center  center;
+}
+.fix-me {
+position: fixed;
+top: 400px;
+}
+.my-list  li:first-child{
+background: red;
+}
+.my-list  li:nth-child(2) {
+background: rgb(29, 122, 222);
+}    
+.my-list  li:nth-child(3) {
+background: yellow;
+}
+.my-list  li:nth-child(4) {
+background: orange;
+}
+.my-list  li:nth-child(5) {
+background: pink;
+}
+.my-list  li:nth-child(6) {
+background: green;
+}
+body {
+font-family: 'Montserrat', sans-serif;
+font-family: 'Nunito', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
